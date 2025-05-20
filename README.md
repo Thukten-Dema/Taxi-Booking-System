@@ -44,7 +44,7 @@ Thukten Dema - Backend Developer|
 - **Validation & Error Handling:** Input validation and user-friendly alerts
 
 
-### ⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 - **Programming Language:** Java  
 - **UI Framework:** Java Swing  
@@ -60,7 +60,7 @@ Thukten Dema - Backend Developer|
 - **Version Control:** GitLab
 
 
-### 🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 
 - Applied key **object-oriented design patterns** in real-world software development.
 - Designed and implemented a **reusable software framework** using Java.
