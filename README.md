@@ -27,10 +27,11 @@ The system integrates several key **design patterns** including:
 ---
 
 ## Roles and Responsibility
+
 Deepak Ghalley - Project Lead|
 Chimi Rinzin - Project Manager|
 Dawa - Backend Developer|
-Thukden Dema - Backend Developer|
+Thukten Dema - Backend Developer|
 
 ---
 
