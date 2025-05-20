@@ -1,10 +1,10 @@
-# 🚖 Taxi Booking System
+## 🚖 Taxi Booking System
 
 A Java-based, design-pattern-driven **Taxi Booking System** developed as part of the **CSF304 (Design Patterns)** module under the Bachelor of Science in Computer Science (AI Development & Data Science, Year III, Semester II) at **Gyalpozhing College of Information Technology**, Bhutan.
 
 Welcome to the Taxi Booking System. The Taxi Booking System is a software solution designed to facilitate efficient booking and management of taxi services. It provides a platform for customers to book rides, drivers to accept and reject the booking, and administrators to oversee the entire operation. The system is built using various design patterns to ensure scalability, maintainability, and extensibility.
 
----
+
 
 ## 📌 Project Overview
 
@@ -24,7 +24,6 @@ The system integrates several key **design patterns** including:
 - Command
 - Strategy
 
----
 
 ## Roles and Responsibility
 
@@ -33,7 +32,6 @@ Chimi Rinzin - Project Manager|
 Dawa - Backend Developer|
 Thukten Dema - Backend Developer|
 
----
 
 ## 🧪 Key Features
 
@@ -45,7 +43,6 @@ Thukten Dema - Backend Developer|
 - **Payment Gateway:** Dynamic selection of payment via BoB/BNB using Strategy pattern
 - **Validation & Error Handling:** Input validation and user-friendly alerts
 
----
 
 ### ⚙️ Technologies Used
 
@@ -62,7 +59,6 @@ Thukten Dema - Backend Developer|
 - **Build Tool:** JAR packaging  
 - **Version Control:** GitLab
 
----
 
 ### 🎓 Learning Outcomes
 
